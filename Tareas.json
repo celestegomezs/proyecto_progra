@@ -1,0 +1,35 @@
+[
+  {
+    "tarea": {
+      "id": 1,
+      "titulo": "Programar login",
+      "descripcion": "Iniciar sesión en el sistema con usuario y contraseña",
+      "fechaInicio": "08/05/2023",
+      "fechaFin": "11/05/2023",
+      "estado": "Solicitada",
+      "usuarioAsignado": "c"
+    }
+  },
+  {
+    "tarea": {
+      "id": 2,
+      "titulo": "Programar crear cuenta",
+      "descripcion": "Formulario para crear cuenta solicitando datos del usuario",
+      "fechaInicio": "12/05/2023",
+      "fechaFin": "15/05/2023",
+      "estado": "Solicitada",
+      "usuarioAsignado": "c"
+    }
+  },
+  {
+    "tarea": {
+      "id": 3,
+      "titulo": "Programar crear tarea",
+      "descripcion": "Formulario para crear una tarea nueva en un proyecto",
+      "fechaInicio": "08/05/2023",
+      "fechaFin": "15/05/2023",
+      "estado": "Solicitada",
+      "usuarioAsignado": "c"
+    }
+  }
+]
